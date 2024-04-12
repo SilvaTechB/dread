@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| [![Gifted Tech](https://github.com/giftedtechnexus.png?lenght=50width=50)](https://github.com/giftedtechnexus)|
+| [![Gifted Tech](https://github.com/mouricedevs.png?lenght=50width=50)](https://github.com/mouricedevs)|
 |----|
 
 
@@ -21,7 +21,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 <h2 align="center">   
 
-- Tap Here to  [FORK](https://github.com/giftedtechnexus/dreaded-md/fork)
+- Tap Here to  [FORK](https://github.com/mouricedevs/dreaded-md/fork)
 
 
 ## Get Session ID:
@@ -46,7 +46,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 <div align="center">
 
-| [![Gifted Tech](https://github.com/giftedtechnexus.png?lenght=50width=50)](https://github.com/giftedtechnexus)|
+| [![Gifted Tech](https://github.com/mouricedevs.png?lenght=50width=50)](https://github.com/mouricedevs)|
 |----|
 
 
@@ -69,7 +69,7 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[MIT License](https://github.com/giftedtechnexus/dreaded-md/blob/main/LICENSE)
+[MIT License](https://github.com/mouricedevs/dreaded-md/blob/main/LICENSE)
 
 Copyright (c) 2024 DREADED-MD
 
