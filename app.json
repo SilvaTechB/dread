@@ -1,0 +1,211 @@
+{
+  "name": "DREADED MD",
+  "description": "A simple whatsapp bot built with nodejs and baileys with MD support. Created by Gifted Tech",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "dreaded",
+    "whatsapp-stickers",
+    "anime",
+    "whatsapp-bot",
+    "whatsapp-sticker-bot",
+    "whatsapp-botto",
+    "baileys",
+    "baileys-md",
+    "md-bot"
+  ],
+  "website": "https://github.com/giftedtechnexus/dreaded-md#readme",
+  "repository": "https://github.com/giftedtechnexus/dreaded-md.git",
+  "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+  "success_url": "https://dreaded-online.vercel.app",
+  "env": {
+       "PREFIX":
+    {
+      "description":"Choose your Prefix for Dreaded Bot. To prevent errors and confusion you must set a prefix",
+      "value": ".",
+      "required":true
+    },
+
+ "MENUTYPE":
+    {
+      "description":"Choose what kind of menu bot will display, put either LINK, IMAGE or VIDEO (must be in capital letters)",
+      "value": "VIDEO",
+      "required":true
+    },
+
+ "MENULINK":
+    {
+      "description":"Put an image link that will be used in picture menu.",
+      "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+      "required":true
+    },
+
+    "DEV": {
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254728782591, 254762016957 ",
+      "value": "254728782591,254762016957,254110853827",
+      "required": true
+    },
+
+ "EVENTS": {
+      "description": "Put TRUE if you want bot to send welcome and goodbye messages",
+      "value": "",
+      "required": false
+    },
+
+    "NOT_OWNER_MSG": {
+      "description": "Put a message that the bot will send if a parameter that requires only owner user is violated. Example: Owner only",
+      "value": "",
+      "required": false
+    },
+    
+    
+    "BOT_ADMIN_MSG": {
+      "description": "Put a message that the bot will send if a parameter that requires bot to be admin is violated. Example: Bot is not admin!",
+      "value": "",
+      "required": false
+    },
+
+    "ADMIN_MSG": {
+      "description": "Put a message that the bot will send if a parameter that requires only owner user is violated. Example: Only admins are allowed to use this command",
+      "value": "",
+      "required": false
+    },
+    "BAD_WORD": {
+      "description": "List words separated witj commas that will be considered as bad and will trigger bot to kick. Example: fuck, pussy, hoe",
+      "value": "",
+      "required": false
+    },
+    "BAD_WORD_KICK": {
+      "description": "Put here TRUE if you want the bot to automatically kick group members using words that you have listed as bad",
+      "value": "",
+      "required": false
+    },
+    "GROUP_ONLY_MSG": {
+      "description": "Put a message that the bot will send if a parameter that works in group chats only is violated. Example: This command will work in groups only",
+      "value": "",
+      "required": false
+    },
+      "AUTOREAD": {
+      "description": "Put here TRUE if you want bot to automatically bluetick messages in private.",
+      "value": "",
+        "required": false
+    
+    
+    },
+"ANTIBOT": {
+      "description": "Put TRUE if you want bot to remove other bots.",
+"value": "FALSE",
+      "required": true
+    },
+
+"ANTIFOREIGN": {
+      "description": "Put TRUE if you want bot to remove numbers which do not include your set COUNTRY_CODE.",
+"value": "FALSE",
+      "required": true
+    },
+
+"ANTITAG": {
+      "description": "Put TRUE if you want bot to remove members tagging or hidetagging",
+"value": "FALSE",
+      "required": true
+    },
+"ANTILINK": {
+      "description": "Put TRUE if you want bot to remove people sending links.",
+"value": "FALSE",
+      "required": true
+    },
+
+"MODE": {
+      "description": "Type PRIVATE if you don't want other people to use the bot or PUBLIC if you want everyone to access.",
+      "value": "PRIVATE",
+      "required": true
+    },
+
+"STICKER_AUTHOR": {
+      "description": "Put your sticker author data",
+      "value": "Gifted Tech",
+      "required": true
+    },
+
+"STICKER_PACKNAME": {
+      "description": "Put your sticker packname data",
+      "value": "Dreaded Bot",
+      "required": false
+    },
+
+"WA_PRESENCE": {
+      "description": "This is your WhatsApp Presence Status: Here's how to set it up: Type *typing* if you want bot to show typing..., Type *recording* if you want bot to show recording..., Type *online* if you want bot to be always online, Leave this field blank if you want bot to show your actual presence.",
+      "value": "online",
+      "required": true
+    },
+
+"RECORDING_TYPINGGC": {
+      "description": "Type TRUE if you want bot to show fake recording/typing in group chats.",
+      "value": "FALSE",
+      "required": true
+    },
+"AUTOVIEW_STATUS": {
+      "description": "Type TRUE if you want bot to automatically read all status updates",
+      "value": "TRUE",
+      "required": true
+    },
+"AUTOBIO": {
+      "description": "Type TRUE if you want bot to show autoupdate it's bio constantly",
+      "value": "FALSE",
+      "required": true
+    },
+"AUTODOWNLOAD_STATUS": {
+      "description": "Type TRUE if you want bot to automatically download and send status updates to your inbox.",
+      "value": "FALSE",
+      "required": true
+    },
+"SESSION": {
+      "description": "Paste the session id that you received in whatsapp after linking the bot. It's used for authentication.",
+      "value": "",
+      "required": true
+    },
+
+"COUNTRY_CODE": {
+      "description": "Enter your country code without +. Example: 254 for Kenya. This will allow bot to detect and remove foreigners if commanded",
+      "value": "",
+      "required": true
+    },
+
+
+"BOTNAME": {
+      "description": "Enter name for your bot.",
+      "value": "𝗗𝗥𝗘𝗔𝗗𝗘𝗗 𝗠𝗗",
+      "required": false
+    },
+
+
+"APP_NAME": {
+      "description": "Enter the app name you entered above.",
+      "value": "",
+      "required": true
+    },
+
+
+
+"HEROKU_API": {
+      "description": "Enter your heroku API Key",
+      "value": "",
+      "required": true
+   }
+
+
+    
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    }
+  ]
+    }
+

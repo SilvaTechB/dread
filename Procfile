@@ -1,0 +1,4 @@
+
+worker: node start.js
+
+
