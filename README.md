@@ -17,7 +17,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## SET-UP
 
-## Fork Repo First ( A Must ):
+## Fork Repo First ( To Show Love ):
 
 <h2 align="center">   
 
@@ -37,7 +37,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
    - ***[`CREATE HEROKU ACCOUNT`](https://signup.heroku.com/) `if you don't have one.`***
 
 
-- ***Now [`DEPLOY TO HEROKU`](https://deploy-dreaded-md.vercel.app/).***
+- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/dreaded-md).***
 
 -***`Fill in all the required variables and deploy the bot.`***
 
