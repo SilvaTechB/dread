@@ -72,7 +72,7 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 [MIT License](https://github.com/mouricedevs/dreaded-md/blob/main/LICENSE)
 
 Copyright (c) 2024 DREADED-MD
-
+---
 
 
 
