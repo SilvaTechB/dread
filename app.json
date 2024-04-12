@@ -14,8 +14,8 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/giftedtechnexus/dreaded-md#readme",
-  "repository": "https://github.com/giftedtechnexus/dreaded-md.git",
+  "website": "https://github.com/mouricedevs/dreaded-md#readme",
+  "repository": "https://github.com/mouricedevs/dreaded-md.git",
   "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
   "success_url": "https://dreaded-online.vercel.app",
   "env": {
