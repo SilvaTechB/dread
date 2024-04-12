@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| [![Gifted Tech](https://github.com/mouricedevs.png?lenght=50width=50)](https://github.com/mouricedevs)|
+| [![Gifted Tech](https://telegra.ph/file/54efddccf41281ad7ec51.jpg?lenght=50width=50)](https://github.com/mouricedevs)|
 |----|
 
 
@@ -27,7 +27,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 ## Get Session ID:
 
 
-- ***`Get your Session Id` by  [`PAIRING CODE`](https://session.giftedtechnexus.co.ke/pair).***
+- ***`Get your Session Id` by  [`PAIRING CODE`](https://dreaded-session-8929fb03fa2b.herokuapp.com).***
 
 - Then `Go-to WhatsApp > Three dots > Linked Devices`
    - You will get a session ID in your WhatsApp. Copy it.
@@ -37,7 +37,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
    - ***[`CREATE HEROKU ACCOUNT`](https://signup.heroku.com/) `if you don't have one.`***
 
 
-- ***Now [`DEPLOY TO HEROKU`](https://deploy-dreaded.vercel.app).***
+- ***Now [`DEPLOY TO HEROKU`](https://deploy-dreaded-md.vercel.app/).***
 
 -***`Fill in all the required variables and deploy the bot.`***
 
@@ -58,7 +58,7 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 # Credits To:
 
-
+* [`Fortunatus Mokata`](https://github.com/fortunatusmokaya) ***For Intitial Code***
 * [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
 * [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***For Baileys Library***
 * [`WaSocket Discord`](https://discord.gg/WeJM5FP9GG) ***For Maintaining the bot libs***
