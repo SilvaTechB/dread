@@ -19,7 +19,7 @@
 //════════════════════════════════════════════════════════════════════════════════════════════//
 *                                                                 
   * @project_name : Dreaded-Md
-   * @author : Gifteded Tech
+   * @author : Gifted Tech
    * @youtube : https://www.youtube.com/@giftedtechnexus
    * @description : Dreaded-Md ,A Multi-functional whatsapp user bot.
    * @version 2.0.0
