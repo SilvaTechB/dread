@@ -93,12 +93,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giftedtechnexus/dreaded-md.git"
+    "url": "git+https://github.com/mouricedevs/dreaded-md.git"
   },
   "bugs": {
-    "url": "https://github.com/giftedtechnexus/dreaded-md/issues"
+    "url": "https://github.com/mouricedevs/dreaded-md/issues"
   },
-  "homepage": "https://github.com/giftedtechnexus/dreaded-md#readme"
+  "homepage": "https://github.com/mouricedevs/dreaded-md#readme"
 }
 
 
